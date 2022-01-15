@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *TIPIT*
 
-**Name of your app** is a tip calculator application for iOS.
+**TIPIT** is a tip calculator application for iOS.
 
-Submitted by: **Yelaman**
+Submitted by: **Yelaman Sain**
 
-Time spent: **X** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## User Stories
 
@@ -23,19 +23,18 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
-- [x] Implemented a slider instead of segmented control for tip percentages.
+* [x] Implemented a slider instead of segmented control for tip percentages.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/pSwUqDb9kk.gif' title='Tip Calculator' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Being a little short on time, I had fun researching and implementing the slider that would stop at necessary points, and display a proper tip percentage. Thanks, stackoverflow :)
 
 ## License
 
